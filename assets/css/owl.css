@@ -397,3 +397,13 @@
     font-weight:600
   }
 }
+
+.row-contact {
+  --bs-gutter-x: 0;
+  --bs-gutter-y: 0;
+  display: flex;
+  margin-top: calc(var(--bs-gutter-y) * -1);
+  margin-right: calc(var(--bs-gutter-x) / -2);
+  margin-left: calc(var(--bs-gutter-x) / -2);
+  flex-direction: column;
+}

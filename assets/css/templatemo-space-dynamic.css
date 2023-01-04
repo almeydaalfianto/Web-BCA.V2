@@ -624,7 +624,7 @@ header
     width: 100%;
   }
   .header-area {
-    background-color: #f7f7f7;
+    background-color: #157acb;
     padding: 0px 15px;
     height: 100px;
     box-shadow: none;
@@ -1343,7 +1343,7 @@ card
 {
     position: absolute;
     transform: perspective(600px) rotateY(180deg);
-    background-image: url('../images/services/bca.jpeg');
+    background-color: #afafaf;
     color: rgb(0, 0, 0);    
     border-radius: 10px;
     padding: 5px;
@@ -1643,7 +1643,7 @@ responsive
   {
       position: absolute;
       transform: perspective(600px) rotateY(180deg);
-      background-image: url('../images/services/bca.jpeg');
+      background-color: #afafaf;
       color: rgb(0, 0, 0);    
       border-radius: 10px;
       padding: 5px;
