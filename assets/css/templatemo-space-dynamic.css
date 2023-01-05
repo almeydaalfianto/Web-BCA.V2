@@ -1323,6 +1323,11 @@ card
     margin-top: 25px;
 }
 
+#services .back ul
+{
+  color: #fff ;
+}
+
 .services .front h2
 {
     position: absolute;
